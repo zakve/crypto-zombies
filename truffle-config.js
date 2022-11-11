@@ -1,8 +1,8 @@
 module.exports = {
   networks: {
-    loc_development_development: {
+    loc_cryptozombies_cryptozombies: {
       network_id: "*",
-      port: 8545,
+      port: 9545,
       host: "127.0.0.1"
     }
   },
